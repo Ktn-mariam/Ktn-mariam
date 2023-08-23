@@ -6,7 +6,7 @@ I'm Mariam Khatoon!
 - 🎓 I hold a B.E. degree in Computer Science from BITS Pilani - Dubai Campus.
 - 🔥  I am a dedicated frontend engineer with a strong proficiency in React and React Native.
 - 🌱 Currently, I am focused on enhancing my problem-solving skills.
-- 👯 I am actively seeking opportunities to collaborate on exciting frontend development projects.
+- 👯 I am actively seeking opportunities to collaborate on exciting front-end development projects.
 - 📫 Email: mariamkhatoon996@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/mariamkhatoon/](https://www.linkedin.com/in/mariamkhatoon/)
 
@@ -18,7 +18,7 @@ I'm Mariam Khatoon!
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
