@@ -8,7 +8,7 @@ I'm Mariam Khatoon!
 - 🌱 Currently, I am focused on enhancing my problem-solving skills.
 - 👯 I am actively seeking opportunities to collaborate on exciting frontend development projects.
 - 📫 Email: mariamkhatoon996@gmail.com
-- 🔗 LinkedIn: ![linkedin.com/in/mariamkhatoon/](https://www.linkedin.com/in/mariamkhatoon/)
+- 🔗 LinkedIn: [linkedin.com/in/mariamkhatoon/](https://www.linkedin.com/in/mariamkhatoon/)
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
