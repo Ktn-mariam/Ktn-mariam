@@ -3,12 +3,12 @@
 ![Mariam Khatoon](https://github.com/Ktn-mariam/Ktn-mariam/assets/113761859/4de488da-ed7e-4b5b-8fd5-bfdb615d3ac6)
 
 I'm Mariam Khatoon!
-- 🎓 I have a B.E. degree in Computer Science from BITS Pilani - Dubai Campus
-- 🔥 I am a passionate frontend engineer with expertise in React and React Native
-- 🌱 I’m currently working on my problem-solving skills.
-- 👯 I’m looking to collaborate on frontend development projects.
+- 🎓 I hold a B.E. degree in Computer Science from BITS Pilani - Dubai Campus.
+- 🔥  I am a dedicated frontend engineer with a strong proficiency in React and React Native.
+- 🌱 Currently, I am focused on enhancing my problem-solving skills.
+- 👯 I am actively seeking opportunities to collaborate on exciting frontend development projects.
 - 📫 Email: mariamkhatoon996@gmail.com
-- LinkedIn Profile: ![linkedin.com/in/mariamkhatoon/](https://www.linkedin.com/in/mariamkhatoon/)
+- 🔗 LinkedIn: ![linkedin.com/in/mariamkhatoon/](https://www.linkedin.com/in/mariamkhatoon/)
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
