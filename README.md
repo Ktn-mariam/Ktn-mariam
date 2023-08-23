@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working on my problem-solving skills.
 - 👯 I’m looking to collaborate on frontend development projects.
-- 📫 How to reach me: @ mariamkhatoon996@gmail.com
+- 📫 How to reach me: mariamkhatoon996@gmail.com
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
