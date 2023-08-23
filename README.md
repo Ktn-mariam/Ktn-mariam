@@ -2,7 +2,9 @@
 
 ![Mariam Khatoon](https://github.com/Ktn-mariam/Ktn-mariam/assets/113761859/4de488da-ed7e-4b5b-8fd5-bfdb615d3ac6)
 
+I am Mariam Khatoon
 - 🎓 I have a B.E. degree in Computer Science from BITS Pilani - Dubai Campus
+- 🔥 I am a passionate frontend engineer with expertise in React and React Native
 - 🌱 I’m currently working on my problem-solving skills.
 - 👯 I’m looking to collaborate on frontend development projects.
 - 📫 Email: mariamkhatoon996@gmail.com
