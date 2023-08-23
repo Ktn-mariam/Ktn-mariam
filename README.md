@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+🌱 I’m currently working on my problem-solving skills.
+- 👯 I’m looking to collaborate on frontend development projects.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+📫 How to reach me: Through my mail: mariamkhatoon996@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: 
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
