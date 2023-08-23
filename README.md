@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+![Mariam Khatoon](https://github.com/Ktn-mariam/Ktn-mariam/assets/113761859/4de488da-ed7e-4b5b-8fd5-bfdb615d3ac6)
+
+- 🎓 I have a B.E. degree in Computer Science from BITS Pilani - Dubai Campus
 - 🌱 I’m currently working on my problem-solving skills.
 - 👯 I’m looking to collaborate on frontend development projects.
-- 📫 How to reach me: mariamkhatoon996@gmail.com
+- 📫 Email: mariamkhatoon996@gmail.com
+- LinkedIn Profile: ![linkedin.com/in/mariamkhatoon/](https://www.linkedin.com/in/mariamkhatoon/)
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
