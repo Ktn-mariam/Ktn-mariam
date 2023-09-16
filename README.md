@@ -7,7 +7,6 @@ I'm Mariam Khatoon!
 - 🔥  I am a dedicated frontend engineer with a strong proficiency in React and React Native.
 - 🌱 Currently, I am focused on enhancing my problem-solving skills.
 - 👯 I am actively seeking opportunities to collaborate on exciting front-end development projects.
-- 📫 Email: mariamkhatoon996@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/mariamkhatoon/](https://www.linkedin.com/in/mariamkhatoon/)
 
 ### :hammer_and_wrench: Languages and Tools :
