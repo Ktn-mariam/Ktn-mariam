@@ -30,7 +30,6 @@ I'm Mariam Khatoon!
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![An image of @ktnmariam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ktnmariam)](https://holopin.io/@ktnmariam)
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
