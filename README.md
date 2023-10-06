@@ -6,7 +6,7 @@ I'm Mariam Khatoon!
 - 🎓 I hold a B.E. degree in Computer Science from BITS Pilani - Dubai Campus.
 - 🔥  I am a dedicated frontend engineer with a strong proficiency in React and React Native. I also have expertise in implementing AI models.
 - 🌱 Currently, I am focused on enhancing my problem-solving skills.
-- 👯 I am actively seeking opportunities to collaborate on exciting front-end development projects.
+- 👯 I am actively seeking opportunities to collaborate on exciting projects.
 - 🔗 LinkedIn: [linkedin.com/in/mariamkhatoon/](https://www.linkedin.com/in/mariamkhatoon/)
 -  Hackerrank Profile: [hackerrank.com/mariamkhatoon996](https://www.hackerrank.com/mariamkhatoon996)
 
