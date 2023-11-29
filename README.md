@@ -31,7 +31,7 @@ I'm Mariam Khatoon!
 </div>
 
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Ktn-mariam}" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ktn-mariam" title="Git" **alt="Git" width="40" height="40"/>
 
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
