@@ -30,6 +30,9 @@ I'm Mariam Khatoon!
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+<img src="	https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Ktn-mariam}" title="Git" **alt="Git" width="40" height="40"/>
+
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
