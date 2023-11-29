@@ -1,15 +1,27 @@
-### 👋 Hi there 
+<div align="center">
+  <h1>👋 Hi there, I'm Mariam</h1>
+</div>
 
-![Mariam Khatoon](https://github.com/Ktn-mariam/Ktn-mariam/assets/113761859/4de488da-ed7e-4b5b-8fd5-bfdb615d3ac6)
+<div align="center">
+  <a href="https://www.linkedin.com/in/mariamkhatoon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;
+  </a>
+</div>
 
-I'm Mariam Khatoon!
+&nbsp;
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=tokyonight"/>
+</div>
+  
+&nbsp;
+## About Me
 - 🎓 I hold a B.E. degree in Computer Science from BITS Pilani - Dubai Campus.
-- 🔥  I am a dedicated full Stack engineer with a strong proficiency in React and Node.
+- 🔥  I am a dedicated full-stack engineer with a strong proficiency in React and Node.
 - 🌱 Currently, I am focused on enhancing my problem-solving skills and am learning backend development.
 - 👯 I am actively seeking opportunities to collaborate on exciting projects.
-- 🔗 LinkedIn: [linkedin.com/in/mariamkhatoon/](https://www.linkedin.com/in/mariamkhatoon/)
 
-### :hammer_and_wrench: Languages & Tools:
+&nbsp;
+## Tools and Technologies
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -29,14 +41,6 @@ I'm Mariam Khatoon!
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-<br>
-<br>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=tokyonight"/>
-</div>
-
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
