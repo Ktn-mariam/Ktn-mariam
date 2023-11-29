@@ -13,14 +13,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=cobalt"/>
 </div>
   
-&nbsp;
 ## About Me
 - 🎓 I hold a B.E. degree in Computer Science from BITS Pilani - Dubai Campus.
 - 🔥  I am a dedicated full-stack engineer with a strong proficiency in React and Node.
 - 🌱 Currently, I am focused on enhancing my problem-solving skills and am learning backend development.
 - 👯 I am actively seeking opportunities to collaborate on exciting projects.
 
-&nbsp;
 ## Tools and Technologies
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
