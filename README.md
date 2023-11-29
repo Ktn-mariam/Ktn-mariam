@@ -10,7 +10,7 @@
 
 &nbsp;
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=highcontrast"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=dracula"/>
 </div>
   
 &nbsp;
