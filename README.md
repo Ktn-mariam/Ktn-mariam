@@ -30,8 +30,11 @@ I'm Mariam Khatoon!
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<br>
+<br>
+
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ktn-mariam&theme=dark/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=tokyonight"/>
 </div>
 
 <!--
