@@ -9,6 +9,11 @@
 </div>
 
 &nbsp;
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=cobalt"/>
+</div>
+  
+&nbsp;
 ## About Me
 - 🎓 I hold a B.E. degree in Computer Science from BITS Pilani - Dubai Campus.
 - 🔥  I am a dedicated full-stack engineer with a strong proficiency in React and Node.
@@ -37,10 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-&nbsp;
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=cobalt"/>
-</div>
   
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
