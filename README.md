@@ -4,13 +4,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mariamkhatoon/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 &nbsp;
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=highcontrast"/>
 </div>
   
 &nbsp;
