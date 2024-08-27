@@ -43,11 +43,11 @@
 
 &nbsp;
 &nbsp;
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: column;justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ktn-mariam&show_icons=true&theme=highcontrast" alt="Mariam's GitHub stats">
   <a href="https://github.com/Ktn-mariam/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktn-mariam&layout=donut-vertical" alt="Top Langs">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ktn-mariam&show_icons=true&theme=highcontrast" alt="Mariam's GitHub stats">
 </div>
 
 <!--
