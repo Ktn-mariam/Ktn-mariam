@@ -43,11 +43,8 @@
 
 &nbsp;
 &nbsp;
-<div style="display: flex; flex-direction: column; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ktn-mariam&show_icons=true&theme=highcontrast" alt="Mariam's GitHub stats">
-  <a href="https://github.com/Ktn-mariam/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktn-mariam&layout=donut-vertical" alt="Top Langs">
-  </a>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktn-mariam&layout=donut-vertical" alt="Top Langs">
 </div>
 
 <!--
