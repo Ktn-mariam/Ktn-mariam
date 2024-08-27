@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ktn-mariam&layout=donut-vertical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ktn-mariam&layout=donut-vertical)](https://github.com/Ktn-mariam/github-readme-stats)
 </div>
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
