@@ -43,10 +43,7 @@
 
 &nbsp;
 &nbsp;
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Ktn-mariam&show_icons=true&theme=highcontrast" alt="Mariam's GitHub stats">
-</div>
-
+## Most used languages
 <div align="center">
   <a href="https://github.com/Ktn-mariam/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktn-mariam&layout=donut-vertical" alt="Top Langs">
