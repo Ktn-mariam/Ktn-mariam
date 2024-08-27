@@ -42,8 +42,13 @@
 </div>
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ktn-mariam&layout=donut-vertical)](https://github.com/Ktn-mariam/github-readme-stats)
-  ![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ktn-mariam&show_icons=true&theme=highcontrast)
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://github.com/Ktn-mariam/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktn-mariam&layout=donut-vertical" alt="Top Langs">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ktn-mariam&show_icons=true&theme=highcontrast" alt="Mariam's GitHub stats">
+</div>
+
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
