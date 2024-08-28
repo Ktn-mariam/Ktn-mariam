@@ -40,12 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
-## Top Repositories
-<div align="center">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ktn-mariam&repo=FarmFresh-Finder)](https://github.com/Ktn-mariam/FarmFresh-Finder)
-</div>
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
