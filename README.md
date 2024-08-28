@@ -46,7 +46,9 @@
 ## Most used languages
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=cobalt"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ktn-mariam&layout=donut)](https://github.com/Ktn-mariam/github-readme-stats)
+  <a href="https://github.com/Ktn-mariam/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktn-mariam&layout=donut" alt="Top Langs">
+  </a>
 </div>
 
 <!--
