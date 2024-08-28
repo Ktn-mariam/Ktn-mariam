@@ -42,8 +42,10 @@
 </div>
 
 
-# Top Repositories
+## Top Repositories
+<div align="center">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ktn-mariam&repo=FarmFresh-Finder)](https://github.com/Ktn-mariam/FarmFresh-Finder)
+</div>
 <!--
 **Ktn-mariam/Ktn-mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
