@@ -15,8 +15,9 @@
   
 ## About Me
 - 🎓 I hold a B.E. degree in Computer Science from BITS Pilani - Dubai Campus.
-- 🔥  I am a full-stack engineer with a strong proficiency in React and Node.
+- 🔥 I am a full-stack engineer with a strong proficiency in React and Node.
 - 🌱 Currently, I am focused on enhancing my problem-solving skills.
+- 🎯 Goals: Learn Next.js, improve DSA, & complete personal projects!
 - 💬 Ask me about: React.js, Node.js
 - 👯 I am actively seeking opportunities to collaborate on exciting projects.
 
