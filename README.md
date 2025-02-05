@@ -9,9 +9,6 @@
 </div>
 
 &nbsp;
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ktn-mariam&theme=cobalt"/>
-</div>
   
 ## About Me
 - 🎓 I hold a B.E. degree in Computer Science from BITS Pilani - Dubai Campus.
